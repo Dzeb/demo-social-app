@@ -1,0 +1,15 @@
+.pagination{
+	margin-bottom: 20px;
+	
+	span{
+		display: inline-block;
+		width: 26px;
+		text-align: center;
+		cursor: pointer;
+	}
+}
+.selected{
+	font-weight: bold;
+	border: 1px solid;
+	border-radius: 1px;
+}

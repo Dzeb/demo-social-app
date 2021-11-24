@@ -1,0 +1,33 @@
+.formControl{
+	textarea,
+	input{
+		font-size: 14px;
+		outline: none;
+		border: 1px solid #171717;
+		margin-bottom: 5px;
+	}
+	
+	&.error{
+		textarea,
+		input{
+			border: 1px solid red;
+		}
+		span{
+			display: block;
+			color: red;
+			font-size: 12px;
+		}
+	}
+}
+
+.errorSummary{
+	border: 1px solid crimson;
+	color: crimson;
+	padding: 5px;
+	margin-bottom: 10px;
+	display: inline-block;
+}
+
+.d_inlineBlock{
+	display: inline-block;
+}

@@ -1,0 +1,40 @@
+.user {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.avatar {
+  width: 100px;
+  height: 100px;
+  margin-right: 20px;
+  overflow: hidden;
+  background-image: url("../../../assets/images/img-user.png");
+  background-size: cover;
+}
+.avatar img {
+  display: block;
+  max-width: 100%;
+}
+
+.description {
+  font-family: Arial, serif;
+  flex-grow: 1;
+}
+
+.status {
+  padding: 5px 15px;
+  background: #f8f6f6;
+  font-family: Candara, serif;
+  font-size: 16px;
+  border: 1px solid dimgrey;
+  border-radius: 3px;
+}
+.status input, .status textarea {
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: none;
+  background: none;
+}
+
+/*# sourceMappingURL=ProfileInfo.module.css.map */

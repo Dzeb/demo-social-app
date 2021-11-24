@@ -1,0 +1,87 @@
+
+.userElem{
+	margin-bottom: 20px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.userElem_imageBlock{
+	margin-right: 30px;
+	width: 70px;
+	text-align: center;
+	
+	button{
+		background: none;
+		display: inline-block;
+		border: none;
+		outline: none;
+		min-height: 30px;
+		padding: 5px 10px;
+		margin: 0;
+		overflow: hidden;
+		position: relative;
+		text-align: center;
+		cursor: pointer;
+		line-height: 1;
+		font-weight: bold;
+		font-size: 12px;
+		color: #003536;
+	}
+}
+
+.userElem_image{
+	width: 50px;
+	height: 50px;
+	display: inline-block;
+	cursor: pointer;
+	
+	img {
+		display: block;
+		max-width: 100%;
+	}
+}
+
+.userElem_info{
+	border: 1px solid #003536;
+	border-radius: 3px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	flex-grow: 1;
+}
+
+.userElem_nameAndStatus{
+	padding: 5px;
+	display: flex;
+	flex-direction: column;
+}
+
+.userElem_name{
+	font-size: 16px;
+	font-family: "Helvetica Neue", Arial, serif;
+}
+
+.userElem_status{
+	margin-top: auto;
+	font-size: 14px;
+}
+
+.userElem_location{
+	padding: 5px;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-end;
+}
+
+.userElem_city{}
+
+.userElem_country{
+	margin-top: auto;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+button[disabled] {
+	background-color: #fd8c84;
+}
