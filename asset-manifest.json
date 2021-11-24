@@ -1,34 +1,34 @@
 {
   "files": {
     "main.css": "/demo-social-app/static/css/main.25cc0967.chunk.css",
-    "main.js": "/demo-social-app/static/js/main.fc38c41a.chunk.js",
-    "main.js.map": "/demo-social-app/static/js/main.fc38c41a.chunk.js.map",
-    "runtime-main.js": "/demo-social-app/static/js/runtime-main.7300e037.js",
-    "runtime-main.js.map": "/demo-social-app/static/js/runtime-main.7300e037.js.map",
-    "static/js/2.6effcaff.chunk.js": "/demo-social-app/static/js/2.6effcaff.chunk.js",
-    "static/js/2.6effcaff.chunk.js.map": "/demo-social-app/static/js/2.6effcaff.chunk.js.map",
+    "main.js": "/demo-social-app/static/js/main.9f13fcf4.chunk.js",
+    "main.js.map": "/demo-social-app/static/js/main.9f13fcf4.chunk.js.map",
+    "runtime-main.js": "/demo-social-app/static/js/runtime-main.260063d2.js",
+    "runtime-main.js.map": "/demo-social-app/static/js/runtime-main.260063d2.js.map",
+    "static/js/2.b12e7b9f.chunk.js": "/demo-social-app/static/js/2.b12e7b9f.chunk.js",
+    "static/js/2.b12e7b9f.chunk.js.map": "/demo-social-app/static/js/2.b12e7b9f.chunk.js.map",
     "static/css/3.65bb791e.chunk.css": "/demo-social-app/static/css/3.65bb791e.chunk.css",
     "static/js/3.7ddbf3c7.chunk.js": "/demo-social-app/static/js/3.7ddbf3c7.chunk.js",
     "static/js/3.7ddbf3c7.chunk.js.map": "/demo-social-app/static/js/3.7ddbf3c7.chunk.js.map",
     "static/css/4.ad33d127.chunk.css": "/demo-social-app/static/css/4.ad33d127.chunk.css",
-    "static/js/4.17dbe2cd.chunk.js": "/demo-social-app/static/js/4.17dbe2cd.chunk.js",
-    "static/js/4.17dbe2cd.chunk.js.map": "/demo-social-app/static/js/4.17dbe2cd.chunk.js.map",
+    "static/js/4.7297e226.chunk.js": "/demo-social-app/static/js/4.7297e226.chunk.js",
+    "static/js/4.7297e226.chunk.js.map": "/demo-social-app/static/js/4.7297e226.chunk.js.map",
     "static/js/5.47b1bcb3.chunk.js": "/demo-social-app/static/js/5.47b1bcb3.chunk.js",
     "static/js/5.47b1bcb3.chunk.js.map": "/demo-social-app/static/js/5.47b1bcb3.chunk.js.map",
     "index.html": "/demo-social-app/index.html",
-    "precache-manifest.3901e97da9ec08ae93a909749ccb1d4d.js": "/demo-social-app/precache-manifest.3901e97da9ec08ae93a909749ccb1d4d.js",
+    "precache-manifest.0a437b1ee7f2497227f42e6c2f28a75c.js": "/demo-social-app/precache-manifest.0a437b1ee7f2497227f42e6c2f28a75c.js",
     "service-worker.js": "/demo-social-app/service-worker.js",
     "static/css/3.65bb791e.chunk.css.map": "/demo-social-app/static/css/3.65bb791e.chunk.css.map",
     "static/css/4.ad33d127.chunk.css.map": "/demo-social-app/static/css/4.ad33d127.chunk.css.map",
     "static/css/main.25cc0967.chunk.css.map": "/demo-social-app/static/css/main.25cc0967.chunk.css.map",
-    "static/js/2.6effcaff.chunk.js.LICENSE.txt": "/demo-social-app/static/js/2.6effcaff.chunk.js.LICENSE.txt",
+    "static/js/2.b12e7b9f.chunk.js.LICENSE.txt": "/demo-social-app/static/js/2.b12e7b9f.chunk.js.LICENSE.txt",
     "static/media/ProfileInfo.module.css": "/demo-social-app/static/media/img-user.247889bf.png",
     "static/media/preloader.svg": "/demo-social-app/static/media/preloader.f2f4374a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7300e037.js",
-    "static/js/2.6effcaff.chunk.js",
+    "static/js/runtime-main.260063d2.js",
+    "static/js/2.b12e7b9f.chunk.js",
     "static/css/main.25cc0967.chunk.css",
-    "static/js/main.fc38c41a.chunk.js"
+    "static/js/main.9f13fcf4.chunk.js"
   ]
 }
