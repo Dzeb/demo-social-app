@@ -1,47 +1,47 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "045a132f21a30ebb6cc1c31cc5a5bb02",
+    "revision": "304a43c3430658940bd36ae59029d41c",
     "url": "/demo-social-app/index.html"
   },
   {
-    "revision": "dedf76959c6fd51c762e",
+    "revision": "2b17ac03c65f761ad6cf",
     "url": "/demo-social-app/static/css/3.985eceee.chunk.css"
   },
   {
-    "revision": "64a5c48f6aedcb5eaa6e",
+    "revision": "3e8add315bfda5fe01d4",
     "url": "/demo-social-app/static/css/4.db1209c2.chunk.css"
   },
   {
-    "revision": "eeb540bac14ccd6452ce",
+    "revision": "7210c27272c427d14ca3",
     "url": "/demo-social-app/static/css/main.0e64f784.chunk.css"
   },
   {
-    "revision": "56a110077194aeca1f6c",
-    "url": "/demo-social-app/static/js/2.d951da1c.chunk.js"
+    "revision": "4cf3d035c80c6b33543e",
+    "url": "/demo-social-app/static/js/2.ac05b7df.chunk.js"
   },
   {
     "revision": "8f06b9e0c45e6669bf287c6947cdbc57",
-    "url": "/demo-social-app/static/js/2.d951da1c.chunk.js.LICENSE.txt"
+    "url": "/demo-social-app/static/js/2.ac05b7df.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dedf76959c6fd51c762e",
-    "url": "/demo-social-app/static/js/3.f77e7346.chunk.js"
+    "revision": "2b17ac03c65f761ad6cf",
+    "url": "/demo-social-app/static/js/3.836bf679.chunk.js"
   },
   {
-    "revision": "64a5c48f6aedcb5eaa6e",
-    "url": "/demo-social-app/static/js/4.dae69e61.chunk.js"
+    "revision": "3e8add315bfda5fe01d4",
+    "url": "/demo-social-app/static/js/4.25065654.chunk.js"
   },
   {
     "revision": "3bc355bda1bfbb808d03",
     "url": "/demo-social-app/static/js/5.39b2faaa.chunk.js"
   },
   {
-    "revision": "eeb540bac14ccd6452ce",
-    "url": "/demo-social-app/static/js/main.a65648d7.chunk.js"
+    "revision": "7210c27272c427d14ca3",
+    "url": "/demo-social-app/static/js/main.ac1e7f32.chunk.js"
   },
   {
-    "revision": "3d15eb6bd1515ab47a6c",
-    "url": "/demo-social-app/static/js/runtime-main.4ec6f409.js"
+    "revision": "8da4d85a4bc74856f1c7",
+    "url": "/demo-social-app/static/js/runtime-main.6b2b5be9.js"
   },
   {
     "revision": "247889bf2c3eeaa025d92026d95dcce6",
